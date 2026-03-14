@@ -26,9 +26,9 @@ Commercial property access control environment.
 
 Approximate scale:
 
-1,389 active credentials
+1,000+ active credentials
 
-300 duplicate identities identified
+30% duplicate identities identified
 
 Multiple categories of identity sprawl detected.
 
