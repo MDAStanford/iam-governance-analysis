@@ -1,0 +1,24 @@
+IAM + GRC CASE STUDY
+physical access identity sprawl audit and analysis
+ENVIRONMENT OVERVIEW & METHODOLOGY
+ENVIRONMENT
+multi-tenant commercial real estate
+physical access control platform: AMAG Symmetry
+1,000+ active credentials analyzed
+METHODOLOGY
+controlled access (active within 60 days)
+unused active credentials (issued / never used)
+dormant accounts (60+ days without activity)
+shared credentials (vendors contractors/visitors)
+Evaluation based on badge activity, credential ownership and lifecycle status
+This case study demonstrates identity governance analysis techniques. All data and
+environments have been anonymized and recreated for demonstration purposes only.
+REMEDIATION STRATEGY:
+• 1 – establish audit & reporting processes
+• 2 – standardize credential lifecycle management based on existing framework
+• (ISO 27001 & 27002, NIST SP 800-53)
+• 3 – conduct portfolio IAM assessment
+• PROPERTY 01 serves as a representative example of how identity sprawl develops
+without centralized identity governance.
+• This case study demonstrates identity governance analysis techniques. All data and
+environments have been sanitized and recreated for demonstration purposes only
