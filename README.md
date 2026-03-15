@@ -88,3 +88,6 @@ Purpose
 
 This case study represents a generalized identity governance analysis conducted within a commercial access control environment. All data has been anonymized and recreated for demonstration purposes.
 This repository demonstrates IAM governance analysis techniques used to identify identity sprawl and improve access control visibility within growing operational environments.
+
+https://github.com/MDAStanford/iam-governance-analysis/blob/main/PROPERTY%201%20SPRAWL.png
+
